@@ -3,6 +3,5 @@ public class Main {
         System.out.println("Chal gya beta!");
         System.out.println("Check krr!");
         System.out.println("Hello, Jenkins!");
-        System.out.println("Learning CI/CD");
     }
 }
