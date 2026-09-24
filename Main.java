@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Check krr!");
         System.out.println("Checking jenkins access token");
         System.out.println("Hello, Jenkins!");
+        System.out.println("Testing the rename");
     }
 }
